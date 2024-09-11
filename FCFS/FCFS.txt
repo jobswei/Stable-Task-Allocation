@@ -1,0 +1,20 @@
+t_num 1000 w_num 3000 profit 24514.527964 distance 17768771.595835 runtime 0.064000 memory 0
+t_num 2000 w_num 3000 profit 74148.786336 distance 53079263.798156 runtime 0.160000 memory 0
+t_num 3000 w_num 3000 profit 148178.875062 distance 106122861.022726 runtime 0.187000 memory 0
+t_num 4000 w_num 3000 profit 246515.150657 distance 176846296.327538 runtime 0.281000 memory 0
+t_num 5000 w_num 3000 profit 369442.268736 distance 265825267.648351 runtime 0.356000 memory 0
+
+
+t_num 3000 w_num 1000 profit 74030.088727 distance 53341642.870035 runtime 0.068000 memory 0
+t_num 3000 w_num 2000 profit 148060.177454 distance 106518086.594039 runtime 0.132000 memory 0
+t_num 3000 w_num 3000 profit 222090.266180 distance 159561683.818610 runtime 0.196000 memory 0
+t_num 3000 w_num 4000 profit 296120.354907 distance 212578039.061795 runtime 0.264000 memory 0
+t_num 3000 w_num 5000 profit 74030.088727 distance 2020549.482401 runtime 0.356000 memory 0
+
+
+t_num 1000 w_num 1000 profit 24514.527964 distance 17870857.470294 runtime 0.031000 memory 0
+t_num 2000 w_num 2000 profit 74148.786336 distance 53270269.518194 runtime 0.093000 memory 0
+t_num 3000 w_num 3000 profit 148178.875062 distance 106313866.742764 runtime 0.203000 memory 0
+t_num 4000 w_num 4000 profit 246515.150657 distance 176999782.333384 runtime 0.384000 memory 0
+t_num 5000 w_num 5000 profit 369442.268736 distance 180681603.895892 runtime 0.594000 memory 0
+

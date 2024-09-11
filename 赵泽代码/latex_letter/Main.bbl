@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{wong2007efficient}
+Raymond Chi-Wing Wong, Yufei Tao, Ada Wai-Chee Fu, and Xiaokui Xiao.
+\newblock On efficient spatial matching.
+\newblock In {\em Proceedings of the 33rd international conference on Very
+  large data bases}, pages 579--590. VLDB Endowment, 2007.
+
+\bibitem{karp1990optimal}
+Richard~M Karp, Umesh~V Vazirani, and Vijay~V Vazirani.
+\newblock An optimal algorithm for on-line bipartite matching.
+\newblock In {\em Proceedings of the twenty-second annual ACM symposium on
+  Theory of computing}, pages 352--358. ACM, 1990.
+
+\bibitem{gale1962college}
+David Gale and Lloyd~S Shapley.
+\newblock College admissions and the stability of marriage.
+\newblock {\em The American Mathematical Monthly}, 69(1):9--15, 1962.
+
+\bibitem{xia2017revenue}
+Chaolun Xia and Shan Muthukrishnan.
+\newblock Revenue-maximizing stable pricing in online labor markets.
+\newblock In {\em Fifth AAAI Conference on Human Computation and
+  Crowdsourcing}, 2017.
+
+\bibitem{NYCTLC}
+the New York City~Taxi and Limousine Commission.
+\newblock Tlc trip record data.
+\newblock \url{https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page}.
+
+\end{thebibliography}

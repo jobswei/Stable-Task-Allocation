@@ -1,0 +1,26 @@
+task: 1000 worker: 1000 profit: 235241.000000 runtime: 0.281000
+task: 2000 worker: 1000 profit: 235241.000000 runtime: 0.254000
+task: 1000 worker: 1000 profit: 235241.000000 runtime: 0.272000
+task: 2000 worker: 1000 profit: 235241.000000 runtime: 0.254000
+task: 3000 worker: 1000 profit: 235241.000000 runtime: 0.220000
+task: 4000 worker: 1000 profit: 235241.000000 runtime: 0.212000
+task: 5000 worker: 1000 profit: 235241.000000 runtime: 0.187000
+
+task: 1000 worker: 3000 profit: 1180090.000000 runtime: 1.085000
+task: 2000 worker: 3000 profit: 1180090.000000 runtime: 0.708000
+task: 3000 worker: 3000 profit: 1180090.000000 runtime: 0.239000
+task: 4000 worker: 3000 profit: 1180090.000000 runtime: 0.061000
+task: 5000 worker: 3000 profit: 1180090.000000 runtime: 0.054000
+
+
+task: 3000 worker: 1000 profit: 235241.000000 runtime: 0.280000
+task: 3000 worker: 2000 profit: 645175.000000 runtime: 0.585000
+task: 3000 worker: 3000 profit: 1180090.000000 runtime: 0.628000
+task: 3000 worker: 4000 profit: 1783431.000000 runtime: 0.124000
+task: 3000 worker: 5000 profit: 2295511.000000 runtime: 0.138000
+
+task: 1000 worker: 1000 profit: 235241.000000 runtime: 0.280000
+task: 2000 worker: 2000 profit: 645175.000000 runtime: 0.634000
+task: 3000 worker: 3000 profit: 1180090.000000 runtime: 0.634000
+task: 4000 worker: 4000 profit: 1783431.000000 runtime: 0.122000
+task: 5000 worker: 5000 profit: 2295511.000000 runtime: 0.149000

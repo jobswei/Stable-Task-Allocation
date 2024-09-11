@@ -1,0 +1,69 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: unsrt.bst
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Database file #1: ref.bib
+Repeated entry---line 113 of file ref.bib
+ : @article{tong2016online
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 124 of file ref.bib
+ : @inproceedings{tong2016online
+ :                              ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 263 of file ref.bib
+ : @inproceedings{deng2017complexity
+ :                                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 316 of file ref.bib
+ : @article{tong2017flexible
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 374 of file ref.bib
+ : @inproceedings{karp1990optimal
+ :                               ,
+I'm skipping whatever remains of this entry
+You've used 28 entries,
+            1791 wiz_defined-function locations,
+            615 strings with 8924 characters,
+and the built_in function-call counts, 8069 in all, are:
+= -- 731
+> -- 366
+< -- 12
++ -- 132
+- -- 104
+* -- 528
+:= -- 1188
+add.period$ -- 91
+call.type$ -- 28
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 28
+duplicate$ -- 386
+empty$ -- 786
+format.name$ -- 104
+if$ -- 1872
+int.to.chr$ -- 0
+int.to.str$ -- 28
+missing$ -- 28
+newline$ -- 143
+num.names$ -- 28
+pop$ -- 114
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 217
+stack$ -- 0
+substring$ -- 556
+swap$ -- 140
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 79
+width$ -- 30
+write$ -- 310
+(There were 5 error messages)

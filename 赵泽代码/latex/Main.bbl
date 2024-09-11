@@ -1,0 +1,166 @@
+\begin{thebibliography}{10}
+
+\bibitem{kazemi2012geocrowd}
+Leyla Kazemi and Cyrus Shahabi.
+\newblock Geocrowd: enabling query answering with spatial crowdsourcing.
+\newblock In {\em Proceedings of the 20th international conference on advances
+  in geographic information systems}, pages 189--198. ACM, 2012.
+
+\bibitem{to2016real}
+Hien To, Liyue Fan, Luan Tran, and Cyrus Shahabi.
+\newblock Real-time task assignment in hyperlocal spatial crowdsourcing under
+  budget constraints.
+\newblock In {\em 2016 IEEE International Conference on Pervasive Computing and
+  Communications (PerCom)}, pages 1--8. IEEE, 2016.
+
+\bibitem{tran2018real}
+Luan Tran, Hien To, Liyue Fan, and Cyrus Shahabi.
+\newblock A real-time framework for task assignment in hyperlocal spatial
+  crowdsourcing.
+\newblock {\em ACM Transactions on Intelligent Systems and Technology (TIST)},
+  9(3):37, 2018.
+
+\bibitem{ahuja1995network}
+Ravindra~K Ahuja, Thomas~L Magnanti, James~B Orlin, and K~Weihe.
+\newblock Network flows: theory, algorithms and applications.
+\newblock {\em ZOR-Methods and Models of Operations Research}, 41(3):252--254,
+  1995.
+
+\bibitem{long2013optimal}
+Cheng Long, Raymond Chi-Wing Wong, Philip~S Yu, and Minhao Jiang.
+\newblock On optimal worst-case matching.
+\newblock In {\em Proceedings of the 2013 ACM SIGMOD International Conference
+  on Management of Data}, pages 845--856. ACM, 2013.
+
+\bibitem{tong2016online}
+Yongxin Tong, Jieying She, Bolin Ding, Libin Wang, and Lei Chen.
+\newblock Online mobile micro-task allocation in spatial crowdsourcing.
+\newblock In {\em 2016 IEEE 32Nd international conference on data engineering
+  (ICDE)}, pages 49--60. IEEE, 2016.
+
+\bibitem{DBLP:journals/pvldb/TongSDCWX16}
+Yongxin Tong, Jieying She, Bolin Ding, Lei Chen, Tianyu Wo, and Ke~Xu.
+\newblock Online minimum matching in real-time spatial data: Experiments and
+  analysis.
+\newblock {\em {PVLDB}}, 9(12):1053--1064, 2016.
+
+\bibitem{song2017trichromatic}
+Tianshu Song, Yongxin Tong, Libin Wang, Jieying She, Bin Yao, Lei Chen, and
+  Ke~Xu.
+\newblock Trichromatic online matching in real-time spatial crowdsourcing.
+\newblock In {\em 2017 IEEE 33rd International Conference on Data Engineering
+  (ICDE)}, pages 1009--1020. IEEE, 2017.
+
+\bibitem{tong2017flexible}
+Yongxin Tong, Libin Wang, Zimu Zhou, Bolin Ding, Lei Chen, Jieping Ye, and
+  Ke~Xu.
+\newblock Flexible online task assignment in real-time spatial data.
+\newblock {\em Proceedings of the VLDB Endowment}, 10(11):1334--1345, 2017.
+
+\bibitem{bertsimas2019online}
+Dimitris Bertsimas, Patrick Jaillet, and S{\'e}bastien Martin.
+\newblock Online vehicle routing: The edge of optimization in large-scale
+  applications.
+\newblock {\em Operations Research}, 67(1):143--162, 2019.
+
+\bibitem{zhao2019preference}
+Boming Zhao, Pan Xu, Yexuan Shi, Yongxin Tong, Zimu Zhou, and Yuxiang Zeng.
+\newblock Preference-aware task assignment in on-demand taxi dispatching: An
+  online stable matching approach.
+\newblock In {\em AAAI Conference on Artificial Intelligence (AAAI 2019)},
+  2019.
+
+\bibitem{xia2017revenue}
+Chaolun Xia and Shan Muthukrishnan.
+\newblock Revenue-maximizing stable pricing in online labor markets.
+\newblock In {\em Fifth AAAI Conference on Human Computation and
+  Crowdsourcing}, 2017.
+
+\bibitem{gale1962college}
+David Gale and Lloyd~S Shapley.
+\newblock College admissions and the stability of marriage.
+\newblock {\em The American Mathematical Monthly}, 69(1):9--15, 1962.
+
+\bibitem{gusfield1989stable}
+Dan Gusfield and Robert~W Irving.
+\newblock The stable marriage problem-structure and algorithms. foundations of
+  computing series.
+\newblock {\em MIT Press}, 1(2):5, 1989.
+
+\bibitem{david2013algorithmics}
+Manlove David.
+\newblock {\em Algorithmics of matching under preferences}, volume~2.
+\newblock World Scientific, 2013.
+
+\bibitem{lee1999online}
+Hyunyoung Lee.
+\newblock Online stable matching as a means of allocating distributed
+  resources.
+\newblock {\em Journal of systems architecture}, 45(15):1345--1355, 1999.
+
+\bibitem{deng2017complexity}
+Yuan Deng, Debmalya Panigrahi, and Bo~Waggoner.
+\newblock The complexity of stable matchings under substitutable preferences.
+\newblock In {\em Thirty-First AAAI Conference on Artificial Intelligence},
+  2017.
+
+\bibitem{khuller1994line}
+Samir Khuller, Stephen~G Mitchell, and Vijay~V Vazirani.
+\newblock On-line algorithms for weighted bipartite matching and stable
+  marriages.
+\newblock {\em Theoretical Computer Science}, 127(2):255--267, 1994.
+
+\bibitem{huzhang2017online}
+Guangda Huzhang, Xin Huang, Shengyu Zhang, and Xiaohui Bei.
+\newblock Online roommate allocation problem.
+\newblock In {\em IJCAI}, pages 235--241, 2017.
+
+\bibitem{DBLP:conf/gis/KazemiSC13}
+Leyla Kazemi, Cyrus Shahabi, and Lei Chen.
+\newblock Geotrucrowd: trustworthy query answering with spatial crowdsourcing.
+\newblock In {\em {SIGSPATIAL}}, pages 304--313, 2013.
+
+\bibitem{DBLP:journals/sigspatial/TongZ18}
+Yongxin Tong and Zimu Zhou.
+\newblock Dynamic task assignment in spatial crowdsourcing.
+\newblock {\em {SIGSPATIAL} Special}, 10(2):18--25, 2018.
+
+\bibitem{Tong2019}
+Yongxin Tong, Zimu Zhou, Yuxiang Zeng, Lei Chen, and Cyrus Shahabi.
+\newblock Spatial crowdsourcing: a survey.
+\newblock {\em The VLDB Journal}, Aug 2019.
+
+\bibitem{DBLP:conf/icde/WangTLXXL19}
+Yansheng Wang, Yongxin Tong, Cheng Long, Pan Xu, Ke~Xu, and Weifeng Lv.
+\newblock Adaptive dynamic bipartite graph matching: {A} reinforcement learning
+  approach.
+\newblock In {\em ICDE}, pages 1478--1489, 2019.
+
+\bibitem{DBLP:conf/icde/ZengTCZ18}
+Yuxiang Zeng, Yongxin Tong, Lei Chen, and Zimu Zhou.
+\newblock Latency-oriented task completion via spatial crowdsourcing.
+\newblock In {\em ICDE}, pages 317--328, 2018.
+
+\bibitem{tongTKDE19}
+Yongxin {Tong}, Yuxiang {Zeng}, Bolin {Ding}, Libin {Wang}, and Lei {Chen}.
+\newblock Two-sided online micro-task assignment in spatial crowdsourcing.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering}, 2019.
+
+\bibitem{wong2007efficient}
+Raymond Chi-Wing Wong, Yufei Tao, Ada Wai-Chee Fu, and Xiaokui Xiao.
+\newblock On efficient spatial matching.
+\newblock In {\em Proceedings of the 33rd international conference on Very
+  large data bases}, pages 579--590. VLDB Endowment, 2007.
+
+\bibitem{karp1990optimal}
+Richard~M Karp, Umesh~V Vazirani, and Vijay~V Vazirani.
+\newblock An optimal algorithm for on-line bipartite matching.
+\newblock In {\em Proceedings of the twenty-second annual ACM symposium on
+  Theory of computing}, pages 352--358. ACM, 1990.
+
+\bibitem{NYCTLC}
+the New York City~Taxi and Limousine Commission.
+\newblock Tlc trip record data.
+\newblock \url{https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page}.
+
+\end{thebibliography}

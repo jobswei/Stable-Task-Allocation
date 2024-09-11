@@ -1,0 +1,154 @@
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage[mathscr]{eucal}
+\usepackage{amsmath,amssymb,latexsym,amsfonts,graphicx}
+\usepackage{array}
+\usepackage[all]{xy}
+\usepackage[OT2,T1]{fontenc}
+\usepackage{flushend,cuted}
+\usepackage[footnotesize]{caption2}
+
+
+\renewcommand{\captionlabeldelim}{\quad}
+
+\setlength{\oddsidemargin 3mm}
+\setlength{\evensidemargin 3mm}
+\headsep 6mm
+\footskip 11mm
+\catcode`@=11
+\baselineskip 4.5mm
+\parindent 4mm
+\setlength{\arraycolsep}{0.5mm}
+\def\ps@icm{\def\@oddhead{\hfill \leftmark \hfill{\rm\thepage} }
+\def\@evenhead{\thepage \hfill \rightmark \hfill}
+\def\@oddfoot{}
+\def\@evenfoot{}}
+\def\ps@first{\def\@oddhead{
+$\left.
+  \begin{array}{l}\\[-0.5mm]
+\hspace*{-2mm}{\rm\small Front.~ Comput.~ Sci.~ China, 2020,~ 2(3)}\\
+\hspace*{-2mm}{\rm\small DOI\ \times\times\times\times}\\
+  \end{array}
+\right.$
+\hfill}
+
+\def\@oddfoot{
+$\left.
+  \begin{array}{l}\\[-3cm]
+\hspace*{-2mm}{\rm Received February 2, 2008; accepted March 30, 2008}\\
+\hspace*{-2mm}{\rm E-mail: feishm@mail.cnu.edu.cn}\\
+  \end{array}
+\right.$ \hfill}
+
+\def\@evenhead{}
+\def\@oddfoot{}%\hfill \copyright\ China Higher Education Press}
+\def\@evenfoot{\hfill\copyright\ China Higher Education Press}}
+\def\list#1#2{\ifnum \@listdepth >5\relax \@toodeep \else \global
+\advance \@listdepth\@ne \fi \rightmargin \z@ \listparindent\z@
+\itemindent\z@ \csname @list\romannumeral\the\@listdepth\endcsname
+\def\@itemlabel{#1}\let\makelabel\@mklab \@nmbrlistfalse #2\relax
+\@trivlist \parskip -\parsep \parindent\listparindent \advance
+\linewidth -\rightmargin \advance\linewidth -\leftmargin \advance
+\@totalleftmargin \leftmargin \parshape \@ne \@totalleftmargin
+\linewidth \ignorespaces}
+\catcode`@=12
+\pagestyle{icm}
+\newcommand{\cnote}{\vspace*{12mm}\noindent \copyright~Higher Education Press and Springer-Verlag 2020 \vspace*{4mm}}
+\newcommand{\tfont}{\usefont{T1}{framdcn}{m}{n}}
+\newcommand{\Abstract}[1]{\noindent{\bf Abstract}\quad #1}
+\newcommand{\Keywords}[1]{\noindent{\bf Keywords}\quad #1}
+\newcommand{\footname}{\hspace*{-0.5cm}\atime\\$\overline{\hspace*{86mm}}$\\E-mail: \aemail}
+
+\newcommand{\ycolor}[1]{\noindent\quad\color{white}{\Large\bf INVERATION}\quad #1}
+
+\setlength{\columnsep}{4mm}
+\paperwidth 210truemm
+\paperheight 277truemm
+\textwidth=176truemm
+\textheight=236truemm
+\headheight=6mm
+\hoffset=-9mm
+
+\makeatletter
+\def\aaa{table}
+\long\def\@makecaption#1#2{%
+\ifx\@captype\aaa
+\begin{footnotesize}
+\vskip\abovecaptionskip
+\sbox\@tempboxa{#2}%
+#1\quad
+   \global \@minipagefalse
+   \hb@xt@\hsize{\box\@tempboxa\hfil}%
+%#2\par
+\vskip\belowcaptionskip
+\end{footnotesize}
+\else
+\begin{footnotesize}
+  \vskip\abovecaptionskip
+  \sbox\@tempboxa{{\bf #1}\quad{\normalfont #2}}%
+  \ifdim \wd\@tempboxa >\hsize
+   {\bf #1}\quad{\normalfont #2}\par
+  \else
+    \global \@minipagefalse
+    \hb@xt@\hsize{\hfil\box\@tempboxa\hfil}%
+  \fi
+  \vskip\belowcaptionskip
+\end{footnotesize}
+\fi}
+\makeatother
+
+\renewcommand{\section}[1]{\addtocounter{section}{1}\vspace*{5mm}\noindent\hrulefill\vspace*{0.5mm}\\{\noindent\large\bf \thesection\quad{#1}}\vspace*{3mm}}
+\newenvironment{cyr}{\fontencoding{OT2}\fontfamily{cmr}\selectfont}{}
+\newcommand{\dsection}[1]{\addtocounter{section}{1}\vspace*{5mm}\noindent\hrulefill\vspace*{0.5mm}\\{\noindent\large\bf {#1}}\vspace*{3mm}}
+\titleformat{\section}{\normalfont\large\usefont{T1}{framdcn}{m}{n}}{\thesection}{1em}{}
+
+\titleformat{\subsection}{\normalfont}{\thesection.\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalfont}{\thesection.\thesubsection.\thesubsubsection}{1em}{}
+\renewcommand\theparagraph{\arabic{paragraph}}
+\titleformat{\paragraph}{\normalfont}{\thesection.\thesubsection.\thesubsubsection.\theparagraph}{1em}{}[\vspace{-2.5mm}]
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\arabic{subsection}}
+\renewcommand\thesubsubsection{\arabic{subsubsection}}
+\renewcommand{\theequation}{\arabic{equation}}
+\def\setzero{\setcounter{equation}{0}}
+\pagenumbering{arabic}
+
+
+
+
+
+\pagestyle{fancy}
+\fancyhf{} % delete current setting for header and footer
+\fancyhead[EC]{\footnotesize{\it Frontiers of Computer Science in China Instruction for authors}\vspace{1mm}}
+\fancyhead[OC]{\footnotesize{\it Front. Comput. Sci. China}\vspace{1mm}}
+\fancyhead[LE,RO]{{\footnotesize \thepage}} %
+\fancyhead[RE,LO]{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+\addtolength{\headheight}{0.5pt} % make space for the rule
+\fancypagestyle{plain}{%
+\fancyhead{} % get rid of headers on plain pages
+\renewcommand{\headrulewidth}{0pt} % and the line
+}
+
+
+
+\def\thebibliography#1{\dsection{References}
+\list{\arabic{enumi}.}{\small\settowidth \labelwidth{[#1]} \leftmargin \labelwidth \advance \leftmargin
+\labelsep
+\usecounter{enumi}}
+\def\newblock{\hskip .11em plus .33em minus .07em} \sloppy
+\clubpenalty 4000 \widowpenalty 4000 \sfcode`\.=1000 \relax
+}
+
+\renewcommand\thefootnote{}
+\newcommand\tmpfootb[1]{}
+\def\qed{\hfill$\Box$}
+
+\makeindex
+
+
+
+
+\endinput

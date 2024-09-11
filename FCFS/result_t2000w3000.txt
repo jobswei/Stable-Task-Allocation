@@ -1,0 +1,2 @@
+profit 74148.786336 distance 53079263.798156 runtime 0.160000 memory 0
+ 
